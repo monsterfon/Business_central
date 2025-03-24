@@ -1,0 +1,18 @@
+{
+    "id": "my-al-item-classification",
+    "name": "My AL Item Classification",
+    "publisher": "DefaultPublisher",
+    "version": "1.0.0",
+    "brief": "An extension for classifying items in Business Central.",
+    "description": "This extension introduces a new 'Item Class' table to classify items, along with a management page for item classes. It also extends the existing Item table and Item Card to incorporate item classification functionality.",
+    "dependencies": [],
+    "platform": "14.0.0.0",
+    "application": "14.0.0.0",
+    "target": "OnPrem",
+    "properties": {
+        "targetFramework": "netstandard2.0",
+        "runtime": "al",
+        "allowDebugging": true,
+        "enableCodeAnalysis": true
+    }
+}

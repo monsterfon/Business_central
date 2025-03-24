@@ -1,0 +1,9 @@
+{
+    "BcContainerHelperVersion": "6.0.30",
+    "BuildContainerName": "BC-25",
+    "DevOpsFeedVersion": "*",
+    "containerImage": "local-bc-image2:onprem-25.2.27733.27999-w1",
+    "feedBranches": [
+        "master"
+    ]
+}
